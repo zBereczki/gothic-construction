@@ -20,6 +20,7 @@ A modellen az építkezés az ikerablakok vállmagasságánál jár.
 
 # Drawings used as sources
 
+- tower: a két bécsi toronyrajz (ezt majd mindenhova)
 - állvány: a Binding-katalógus oszlopos állványai, elsősorban a 254 és a 634e katalógustétel [1]
 - közlekedés az állványon: Hans Hammer 8v-n látható, több részes, kampós kötéllétrája [2]
 - gépek:
