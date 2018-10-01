@@ -23,7 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - about.md
   - 1st-phase.md
-  - 2nd-phase.md
 twitter_username: z_bereczki
 github_username:  zBereczki
 
