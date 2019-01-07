@@ -30,7 +30,11 @@ Click on the hamburger button in the top-left corner of the window, then on the 
 
 # The entire model of the first phase
 
-<iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/1st-phase.iris/index.html" frameBorder="0" ></iframe>
+![3D image of the first phase]({{ site.baseurl }}/images/1_szakasz_vonalas.png)
+
+*Rendering the entire model in 3D requires powerful hardware, so it can be accessed on a separate page:*
+
+[3D model of the first phase](/gothic-construction/models/1st-phase.iris/index.html)
 
 # Machines
 
@@ -38,21 +42,25 @@ Viennese crane:
 
 <iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/becsi-daru.iris/index.html" frameBorder="0" ></iframe>
 
-The first crane from the folio 3 recto of Hans Hammer's portfolio:
+The first crane from the [folio 3 recto of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00007):
 
 <iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/HH-3r-1.iris/index.html" frameBorder="0" ></iframe>
 
-The first crane from the folio 4 recto of Hans Hammer's portfolio:
+The first crane from the [folio 4 recto of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00009):
 
 <iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/HH-4r-1.iris/index.html" frameBorder="0" ></iframe>
 
-The first crane from the folio 10 recto of Hans Hammer's portfolio:
+The first crane from the [folio 10 recto of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00021):
 
 <iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/HH-10r-1.iris/index.html" frameBorder="0" ></iframe>
 
-The second crane from the folio 10 verso of Hans Hammer's portfolio:
+The second crane from the [folio 10 verso of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00022):
 
 <iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/HH-10v-2.iris/index.html" frameBorder="0" ></iframe>
+
+# Scaffoldings
+
+<iframe allowfullscreen id="3r_1" width="100%" height="500px" src="/gothic-construction/models/1st-phase-scaffolding.iris/index.html" frameBorder="0" ></iframe>
 
 # Drawings used as sources
 
