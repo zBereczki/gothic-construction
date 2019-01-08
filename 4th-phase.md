@@ -32,7 +32,7 @@ Click on the hamburger button in the top-left corner of the window, then on the 
 
 ![3D image of the fourth phase]({{ site.baseurl }}/images/4_szakasz_vonalas.png)
 
-*Rendering the entire model in 3D requires powerful hardware, so it can be accessed on a separate page:*
+*Rendering the entire model in 3D requires powerful hardware, so it can be accessed on a separate page, but only the relevant (upper) parts:*
 
 [3D model of the fourth phase](/gothic-construction/models/4th-phase.iris/index.html)
 

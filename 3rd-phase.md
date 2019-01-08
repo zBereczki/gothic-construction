@@ -78,6 +78,6 @@ The second crane from the [folio 10 verso of Hans Hammer's portfolio](http://dig
 
 [1] M. Kronberger, Ed., *Der Dombau von St. Stephan. Die Originalpläne aus dem Mittelalter.* Wien: Metroverlag, 2011. 49., 63–67. p.
 
-[2] E. E. Viollet-le-Duc, *Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle,* vol. 5. Paris: B. Bance, 1861. 103–114. p.
+[2] E. E. Viollet-le-Duc, *Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle,* vol. 5. Paris: B. Bance, 1861., 103–114. p.
 
 [3] H. Hammer, *Zeichnungen.* Herzog August Bibliothek Cod. Guelf. 114.1 extrav. [http://diglib.hab.de/wdb.php?dir=mss/114-1-extrav](http://diglib.hab.de/wdb.php?dir=mss/114-1-extrav)

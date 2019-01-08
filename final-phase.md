@@ -32,7 +32,7 @@ Click on the hamburger button in the top-left corner of the window, then on the 
 
 ![3D image of the final phase]({{ site.baseurl }}/images/42_szakasz_vonalas.png)
 
-*Rendering the entire model in 3D requires powerful hardware, so it can be accessed on a separate page:*
+*Rendering the entire model in 3D requires powerful hardware, so it can be accessed on a separate page, but only the relevant (upper) parts:*
 
 [3D model of the final phase](/gothic-construction/models/final-phase.iris/index.html)
 
@@ -44,7 +44,7 @@ The first crane from the [folio 3 recto of Hans Hammer's portfolio](http://digli
 
 The fifth crane from the [folio 4 recto of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00009):
 
-**modell**
+<iframe allowfullscreen width="100%" height="500px" src="/gothic-construction/models/HH-4r-5.iris/index.html" frameBorder="0" ></iframe>
 
 The first crane from the [folio 10 recto of Hans Hammer's portfolio](http://diglib.hab.de/show_image.php?dir=mss/114-1-extrav&image=00021):
 

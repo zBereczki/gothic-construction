@@ -64,10 +64,10 @@ The second crane from the [folio 10 verso of Hans Hammer's portfolio](http://dig
 
 # Drawings used as sources
 
-- tower: Wien Museum Karlsplatz Inv. Nr. 105.064 (floor plan) and Inv. Nr. 105.067 (elevation) [1]
-- scaffoldings: standing scaffoldings from Günther Binding's catalogue, primarily the catalogue items nr. 254 and 634e [2]
-- accessing the different levels of the scaffoldings: Hans Hammer's ladder from the page 8v of the portfolio [3]
-- machines:
+- Tower: Wien Museum Karlsplatz Inv. Nr. 105.064 (floor plan) and Inv. Nr. 105.067 (elevation) [1]
+- Scaffoldings: standing scaffoldings from Günther Binding's catalogue, primarily the catalogue items nr. 254 and 634e [2]
+- Accessing the different levels of the scaffoldings: Hans Hammer's ladder from the page 8v of the portfolio [3]
+- Machines:
     - Kupferstichkabinett der Akademie der Bildenden Künste Wien Inv 35.043r (crane) [4] [5], with some elements from the 19th-century drawing of the mediæval crane of Cologne [6]
     - Hans Hammer's 3r 1 crane [3]
     - Hans Hammer's 4r 1 crane [3]
