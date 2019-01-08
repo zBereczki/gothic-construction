@@ -63,7 +63,7 @@ The second crane from the [folio 10 verso of Hans Hammer's portfolio](http://dig
 - Tower: Wien Museum Karlsplatz Inv. Nr. 105.064 (floor plan) and Inv. Nr. 105.067 (elevation) [1]
 - Scaffoldings:
     - 19th-century drawings of the (now demolished) bell-frame of the St. Stephen's church in Vienna [2] [3]
-    - A relevant scaffolding from Viollet-Le-Duc's dictionary [4]
+    - A relevant scaffolding from Viollet-le-Duc's dictionary [4]
 - Accessing the different levels of the scaffoldings: Hans Hammer's ladder from the page 8v of the portfolio [5]
 - Machines:
     - Hans Hammer's 3r 1 crane [5]
