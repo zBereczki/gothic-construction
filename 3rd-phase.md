@@ -65,7 +65,7 @@ The second crane from the [folio 10 verso of Hans Hammer's portfolio](http://dig
 # Drawings used as sources
 
 - Tower: Wien Museum Karlsplatz Inv. Nr. 105.064 (floor plan) and Inv. Nr. 105.067 (elevation) [1]
-- Scaffoldings: scaffolding of a tower from Viollet-Le-Duc's dictionary [2]
+- Scaffoldings: scaffolding of a tower from Viollet-le-Duc's dictionary [2]
 - Accessing the different levels of the scaffoldings: Hans Hammer's ladder from the page 8v of the portfolio [3]
 - Machines:
     - Hans Hammer's 3r 1 crane [3]
